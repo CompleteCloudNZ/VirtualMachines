@@ -6,6 +6,10 @@
  # hddgb                = size in GB of HDD (defaults to 30GB)
  # $path                = Location to save the HDD and the machine snapshots
  # $vboxmanage          = Location of the Oracle Virtual Box command line management tool
+ # $networkadapter      = Name of the network adapter that will be used for bridged mode
+ #
+ # TODO
+ # - Change Network to allow different settings
  #>
 Param(
 
