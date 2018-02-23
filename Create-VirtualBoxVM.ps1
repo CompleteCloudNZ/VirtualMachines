@@ -10,6 +10,8 @@
  #
  # TODO
  # - Change Network to allow different settings
+ # - Add a different vm name in
+ # - Power up the VM and boot from disk
  #>
 Param(
 
